@@ -1,4 +1,4 @@
+.gradle
+build
 bin/
-.DS_Store
-*.jar
-!lib/**/*.jar
+.idea
